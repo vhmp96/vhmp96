@@ -26,4 +26,4 @@ Com uma bagagem de 6 anos como Técnico em Edificações, aprendi na prática so
 <br>
 
 ## 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI/](https://www.linkedin.com/in/victor-hugo-marques-pego-17b35b375/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/victor-hugo-marques-pego-17b35b375/))
